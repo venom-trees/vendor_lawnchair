@@ -9,7 +9,6 @@ PRODUCT_PACKAGES += \
     Lawnchair \
     Lawnicons \
     Lawnfeed \
-    LawnchairFrameworksOverlay \
-    LawnchairOverlay \
+    QuickSwitchOverlay \
     lawnchair-hiddenapi-package-whitelist \
     privapp-permissions-lawnchair
